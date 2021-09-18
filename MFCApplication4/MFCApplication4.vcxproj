@@ -229,6 +229,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="MFCApplication4.reg" />
+    <None Include="README.md" />
     <None Include="res\MFCApplication4.rc2" />
   </ItemGroup>
   <ItemGroup>

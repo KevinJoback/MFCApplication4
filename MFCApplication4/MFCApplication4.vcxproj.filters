@@ -79,6 +79,7 @@
     <None Include="res\MFCApplication4.rc2">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="MFCApplication4.rc">
